@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>hello</title>
   </head>
+  <head>
+    <meta charset="UTF-8">
+    <title>hello again</title>
+  </head>
   <body>
   Hello, world!
   </body>
